@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/numberfacts/static/css/main.ccfb3720.css",
+    "main.js": "/numberfacts/static/js/main.5837426c.js",
+    "static/js/787.a0b697b3.chunk.js": "/numberfacts/static/js/787.a0b697b3.chunk.js",
+    "static/media/background_pic.jpg": "/numberfacts/static/media/background_pic.68a29783d7c10bfb50e5.jpg",
+    "index.html": "/numberfacts/index.html",
+    "main.ccfb3720.css.map": "/numberfacts/static/css/main.ccfb3720.css.map",
+    "main.5837426c.js.map": "/numberfacts/static/js/main.5837426c.js.map",
+    "787.a0b697b3.chunk.js.map": "/numberfacts/static/js/787.a0b697b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfb3720.css",
+    "static/js/main.5837426c.js"
+  ]
+}
