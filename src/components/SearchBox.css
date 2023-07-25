@@ -1,0 +1,30 @@
+input{
+    padding: 10px;
+    caret-color: orangered;
+    min-height: 60px;
+    width: 220px;
+    max-width: 100%;
+    font-size: 20px;
+    border: 2px solid orangered;
+    border-radius: 30px;
+    font-family: "Bungee Spice";
+    background-color: 	black;
+    text-align: center;
+
+
+}
+
+input::placeholder{
+    text-align: center;
+    
+}
+
+input:focus{
+    outline: none;
+    border: 2px solid orangered /*damit border immer orange bleibt*/
+}
+
+input::-webkit-search-cancel-button {
+    filter: invert(70%); /* Invertiere die Farben, um das blaue Kreuz schwarz zu machen */
+}
+
