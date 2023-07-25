@@ -3,7 +3,7 @@ import "./SearchBox.css";
 
 const SearchBox = ({inputBlockedHandler, searchChange }) => {
   const handleKeyPress = (event) => {
-    if (event.key === "Enter") {
+    if (event.key === "Enter" || event.keyCode === 13) {
       searchChange(event.target.value);
     }
   };
