@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Pazyxx/numberFacts/static/css/main.db318c77.css",
-    "main.js": "/Pazyxx/numberFacts/static/js/main.5d85aa90.js",
-    "static/js/787.a0b697b3.chunk.js": "/Pazyxx/numberFacts/static/js/787.a0b697b3.chunk.js",
-    "static/media/background_pic.jpg": "/Pazyxx/numberFacts/static/media/background_pic.68a29783d7c10bfb50e5.jpg",
-    "index.html": "/Pazyxx/numberFacts/index.html",
-    "main.db318c77.css.map": "/Pazyxx/numberFacts/static/css/main.db318c77.css.map",
-    "main.5d85aa90.js.map": "/Pazyxx/numberFacts/static/js/main.5d85aa90.js.map",
-    "787.a0b697b3.chunk.js.map": "/Pazyxx/numberFacts/static/js/787.a0b697b3.chunk.js.map"
+    "main.css": "/numberFacts/static/css/main.7b4e3e83.css",
+    "main.js": "/numberFacts/static/js/main.38c9088d.js",
+    "static/js/787.a0b697b3.chunk.js": "/numberFacts/static/js/787.a0b697b3.chunk.js",
+    "static/media/background_pic.jpg": "/numberFacts/static/media/background_pic.68a29783d7c10bfb50e5.jpg",
+    "index.html": "/numberFacts/index.html",
+    "main.7b4e3e83.css.map": "/numberFacts/static/css/main.7b4e3e83.css.map",
+    "main.38c9088d.js.map": "/numberFacts/static/js/main.38c9088d.js.map",
+    "787.a0b697b3.chunk.js.map": "/numberFacts/static/js/787.a0b697b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db318c77.css",
-    "static/js/main.5d85aa90.js"
+    "static/css/main.7b4e3e83.css",
+    "static/js/main.38c9088d.js"
   ]
 }
